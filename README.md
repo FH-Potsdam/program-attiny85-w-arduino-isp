@@ -19,7 +19,7 @@ program ATtiny 85 with [Tiny Programmer](https://www.sparkfun.com/products/11460
 
 If you don't want to use your Arduino board you can get one of these Tiny Programmers. It's a lot easier then the Arduino ISP way and works also with the latest Arduino IDE version. See the [hookup Guide by sparkfun](https://learn.sparkfun.com/tutorials/tiny-avr-programmer-hookup-guide/) and the [tutorial by the high low tech group](http://highlowtech.org/?p=1801)
 
-##fritzing sketch by 2014 Fabian Moron Zirfas
+fritzing sketch by 2014 Fabian Moron Zirfas  
 
 ##ATtiny library by high lowtech group
 
